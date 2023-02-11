@@ -1,7 +1,7 @@
 ![logo](https://github.com/radhikaGupta03/radhikaGupta03/blob/main/githubBanner.gif)
 <h1 align="center">Hi 👋, I'm Radhika Gupta</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="Coding" width="400" src="https://www.flaticon.com/free-icon/developer_1508880">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhikagupta03&label=Profile%20views&color=0e75b6&style=flat" alt="radhikagupta03" /> </p>
 
